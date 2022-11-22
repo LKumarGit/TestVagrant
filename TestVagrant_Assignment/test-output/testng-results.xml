@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-22T21:08:34 IST" name="Default suite" finished-at="2022-11-22T21:08:34 IST" duration-ms="70">
+    <groups>
+    </groups>
+    <test started-at="2022-11-22T21:08:34 IST" name="Default test" finished-at="2022-11-22T21:08:34 IST" duration-ms="70">
+      <class name="com.test.cricket.PlayersSelection">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.cricket.PlayersSelection@708f5957]" started-at="2022-11-22T21:08:34 IST" name="setUp" finished-at="2022-11-22T21:08:34 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyForeignPlayers()[pri:0, instance:com.test.cricket.PlayersSelection@708f5957]" started-at="2022-11-22T21:08:34 IST" name="verifyForeignPlayers" finished-at="2022-11-22T21:08:34 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForeignPlayers -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.cricket.PlayersSelection@708f5957]" started-at="2022-11-22T21:08:34 IST" name="setUp" finished-at="2022-11-22T21:08:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyWicketKeeper()[pri:0, instance:com.test.cricket.PlayersSelection@708f5957]" started-at="2022-11-22T21:08:34 IST" name="verifyWicketKeeper" finished-at="2022-11-22T21:08:34 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWicketKeeper -->
+      </class> <!-- com.test.cricket.PlayersSelection -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
